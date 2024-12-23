@@ -783,6 +783,366 @@
         }
       },
       "showMask": true
+    },
+    {
+      "id": "1734987219432",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg",
+      "personName": "J.K. Simmons",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734987278862",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eKF1sGJRrZJbfBG1KirPt1cfNd3.jpg",
+      "personName": "Tom Hanks",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734987295083",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6Sjz9teWjrMY9lF2o9FCo4XmoRh.jpg",
+      "personName": "Florence Pugh",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734987305053",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8WC12YJltY2H0TdRs9f4Uu8T6Sx.jpg",
+      "personName": "Margot Robbie",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734987315359",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qYNofOjlRke2MlJVihmJmEdQI4v.jpg",
+      "personName": "Anya Taylor-Joy",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734987331333",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kN3A5oLgtKYAxa9lAkpsIGYKYVo.jpg",
+      "personName": "Henry Cavill",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734987343848",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8e6mt0vGjPo6eW52gqRuXy5YnfN.jpg",
+      "personName": "Jason Bateman",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734987353272",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8A4PS5iG7GWEAVFftyqMZKl3qcr.jpg",
+      "personName": "Robert Pattinson",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734987375370",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/o3PahuK7OmCI0RAQUq38CUBWYZ9.jpg",
+      "personName": "Jeff Goldblum",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734987390320",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dUnrbrn2FeqfdpGRArPZeWPsS2g.jpg",
+      "personName": "Anne Hathaway",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734987428544",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qFek0KqpaPV5mVyHHNfAapDE9Tj.jpg",
+      "personName": "Dakota Johnson",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734987459731",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg",
+      "personName": "Liam Neeson",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734987477372",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lCySuYjhXix3FzQdS4oceDDrXKI.jpg",
+      "personName": "Matthew McConaughey",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734987510539",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cJAHQWX9hVadDFx5WTSBIW0VjvP.jpg",
+      "personName": "Mila Kunis",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734987543938",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lfW2cDigTcvuoe4k6UfCdGVE1R6.jpg",
+      "personName": "Nicole Kidman",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734987567889",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wcI594cwM4ArPwvRd2IU0Z0yLuh.jpg",
+      "personName": "Johnny Depp",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734987594696",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iaf7SHSkGDpnyrDh1Jolilwk2TD.jpg",
+      "personName": "Anthony Hopkins",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734987605247",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ify7UiQkVMQ0uCUX0F0AuzLK1vS.jpg",
+      "personName": "Amy Adams",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734987671926",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gPgZSodybMFBodw7nKRTALONIr2.jpg",
+      "personName": "Demi Moore",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734987689364",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/Ab8LNS1SLVMDpYcxfkqGUlk5BkT.jpg",
+      "personName": "Chris Pratt",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734987700597",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lEIFRIR8EohwOVe7PQu4zvIl850.jpg",
+      "personName": "Cara Delevingne",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734987724269",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hPHGKPAWZ8gArYXMk225rrYPoyJ.jpg",
+      "personName": "Sandra Bullock",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734987742567",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2dGBb1fOcNdZjtQToVPFxXjm4ke.jpg",
+      "personName": "Al Pacino",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734987773880",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg",
+      "personName": "Woody Harrelson",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734987801160",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7Jahy5LZX2Fo8fGJltMreAI49hC.jpg",
+      "personName": "Bryan Cranston",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734987813245",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg",
+      "personName": "Sigourney Weaver",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734987823486",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fBEucxECxGLKVHBznO0qHtCGiMO.jpg",
+      "personName": "Benedict Cumberbatch",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734987842529",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9xMu2GLC5otUcC11sEWC5aEAERQ.jpg",
+      "personName": "Drew Barrymore",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734987871202",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/i5EKWHuXokznIDMy2prTXzRmklI.jpg",
+      "personName": "Billy Bob Thornton",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734987916270",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dzJtsLspH5Bf8Tvw7OQC47ETNfJ.jpg",
+      "personName": "Steve Carell",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
     }
   ]
 }
