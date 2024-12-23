@@ -1143,6 +1143,390 @@
         "rotation": 0
       },
       "showMask": true
+    },
+    {
+      "id": "1734988276550",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ncF4HivY2W6SQW5dEP3N3I4mfT0.jpg",
+      "personName": "Tobey Maguire",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734988287434",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cTuLiimHK338z9qCTurMIqFoQ25.jpg",
+      "personName": "Kim Kardashian",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734988301498",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nFRiHq5w1SUHWsSCcKy76HREQfN.jpg",
+      "personName": "Anna Faris",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734988315531",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iFerDZUmC5Fu26i4qI8xnUVEHc7.jpg",
+      "personName": "Daniel Craig",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734988334557",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vVqrAhZpojAtp874wBaaFt5T4dN.jpg",
+      "personName": "Colin Farrell",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734988355187",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oGUmQBU87QXAsnaGleYaAjAXSlj.jpg",
+      "personName": "Michelle Pfeiffer",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734988374473",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rP74dJXl7EjinGM0shQtUOlH5s2.jpg",
+      "personName": "Kristen Bell",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734988385475",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yirl6fEmeXY5xcvJw3nTcCNq9Cw.jpg",
+      "personName": "Anna Kendrick",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734988394847",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg",
+      "personName": "Joaquin Phoenix",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734988406358",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pmVGDb6Yl6OyFcHVGbu1EYNfyFK.jpg",
+      "personName": "John Krasinski",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734988415575",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/akArncggHnusP5jxzMBKmJDRrMo.jpg",
+      "personName": "Hugh Laurie",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734988424791",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg",
+      "personName": "Peter Dinklage",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734988439926",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/resiaRfWvj4N84TgJi9DPOafCpq.jpg",
+      "personName": "Jodie Foster",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734988473535",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/f4HGGM8LR2fSoBQXM2mlfa4xzxt.jpg",
+      "personName": "Sarah Jessica Parker",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734988514304",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nKZgixTbHFXpkzzIpMFdLX98GYh.jpg",
+      "personName": "Sebastian Stan",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734988580659",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/c01Ma8Jrr2OJ6uoikPwDK34Y8eK.jpg",
+      "personName": "Kaley Cuoco",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734988599749",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8ur4aHFakVCinWk0cvrGO8qAUhv.jpg",
+      "personName": "Sophie Turner",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734988630976",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yvoAgJTOvuNSPSKegcIcD62ySY9.jpg",
+      "personName": "Brian Cox",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734988662358",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iF4C63jae3N33pCQmCXEJHKTN0t.jpg",
+      "personName": "Timothy Dalton",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734988735694",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/l79eVtn6bSOaiq7R0UGu60foMrK.jpg",
+      "personName": "Sofía Vergara",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734988771930",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/77decDyKXB34i9A1FnMM1suI5cA.jpg",
+      "personName": "Rob Lowe",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734988787882",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/y40Wu1T742kynOqtwXASc5Qgm49.jpg",
+      "personName": "Lupita Nyong'o",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734988818020",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6kO4IN7ndoIGw2JhyhAQN3SFmdx.jpg",
+      "personName": "Danny DeVito",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734988829895",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yl0qva0O4u92fvtItakdvKmKrW9.jpg",
+      "personName": "Melissa McCarthy",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734988843798",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6RAAxI4oPnDMzXpXWgkkzSgnIAJ.jpg",
+      "personName": "Kirsten Dunst",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734988897446",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iQnY4JYe7mFoaO2IH1pFNIDL0MH.jpg",
+      "personName": "Javier Bardem",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734988921238",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jt08kAMlC7s9MJ8PupHBUjY0Ruc.jpg",
+      "personName": "Dev Patel",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734988979248",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9OAUwY25yPxItnkcnnJdtpNwMSp.jpg",
+      "personName": "Ken Jeong",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734989014631",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7P30hza1neYWW3r7rSQOC736K2Z.jpg",
+      "personName": "Harvey Keitel",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734989147533",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eHAICyhvjiRZCgzKyJCk9hWnnjr.jpg",
+      "personName": "Hannah Waddingham",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734989174909",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qyGgNpvXFGHAxdG4ieFmRL3JiWq.jpg",
+      "personName": "Courteney Cox",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
+    },
+    {
+      "id": "1734989186776",
+      "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eiDn2ddmosODDIyK7GANcUdFfHu.jpg",
+      "personName": "Lady Gaga",
+      "maskPosition": {
+        "x": 50,
+        "y": 30,
+        "scale": 1,
+        "rotation": 0
+      },
+      "showMask": true
     }
   ]
 }
