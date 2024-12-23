@@ -1,6 +1,6 @@
 {
   "images": [
-    { 
+    {
       "id": "1733352325210",
       "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/4s3wI0bqOP7K3hhcmKqV6m3GYiQ.jpg",
       "personName": "George Clooney",
@@ -968,18 +968,6 @@
       "id": "1734987567889",
       "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/wcI594cwM4ArPwvRd2IU0Z0yLuh.jpg",
       "personName": "Johnny Depp",
-      "maskPosition": {
-        "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
-      },
-      "showMask": true
-    },
-    {
-      "id": "1734987594696",
-      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/iaf7SHSkGDpnyrDh1Jolilwk2TD.jpg",
-      "personName": "Anthony Hopkins",
       "maskPosition": {
         "x": 50,
         "y": 30,
